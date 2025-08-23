@@ -15,7 +15,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY JESUS-CRASH-V1*",
 // set the auto reply massage on status reply  
-WELCOME: process.env.WELCOME || "false",
+WELCOME: process.env.WELCOME || "true",
 // true if want welcome and goodbye msg in groups    
 ADMIN_EVENTS: process.env.ADMIN_EVENTS || "true",
 // make true to know who dismiss or promoted a member in group
@@ -37,8 +37,8 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "13058962443",
-// add your bot owner number242068679826
+OWNER_NUMBER: process.env.OWNER_NUMBER || "24206583398",
+// add your bot owner number242065833998
 OWNER_NAME: process.env.OWNER_NAME || "DAWENS BOY",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ by dawens boy*",
@@ -57,7 +57,7 @@ MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
 ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "true",
 // make anti link true,false for groups 
-AUTO_VOICE: process.env.AUTO_VOICE || "false",
+AUTO_VOICE: process.env.AUTO_VOICE || "true",
 // make true for send automatic voices
 AUTO_STICKER: process.env.AUTO_STICKER || "true",
 // make true for automatic stickers 
@@ -65,7 +65,7 @@ AUTO_REPLY: process.env.AUTO_REPLY || "true",
 // make true or false automatic text reply 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // maks true for always online 
-PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
+PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
 // make false if want private mod
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
